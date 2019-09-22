@@ -133,11 +133,20 @@ https://www.spoj.com/problems/AGGRCOW/
 https://www.geeksforgeeks.org/painters-partition-problem/
 https://www.interviewbit.com/problems/painters-partition-problem/
 
+---------segment Treee------------
+https://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/
+- coordinate compression 
+- segment tree with vectors
+- heavy light decomposition
 -----------Tip------------------
 use small identifiers.
 go to hackerrank for questions
 do contests on codeforces and other coding platforms, codeforces-> start doing div 3 que.
 go through with all topics of ds.
+
+---------doubts-----------
+
+online and offline queries?
 
 --------questions
 
@@ -148,4 +157,5 @@ https://codeforces.com/problemset/problem/550/B
 - find the number of set bits of a number.
 - find element in array which occurs 4 times in array where other elements are only 3 times in array -> using XOR
 - get all the subsets using bitwise masking and bitwise opr. 
-
+b.queue codeforces
+nutella needs a little more help in codechef
